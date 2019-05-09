@@ -1,1 +1,0 @@
-Proyecto orientado a Room implementando la estructura JetPack
