@@ -11,7 +11,9 @@ import android.view.MenuItem;
 import es.ingenia.fragmentstacksmanager.FragmentStacksManager;
 import es.ingenia.fragmentstacksmanager.Stacks;
 
-
+/**
+ *
+ */
 public class DemoActivity extends AppCompatActivity {
 
     private BottomNavigationView bottomNavigationView;
@@ -30,7 +32,7 @@ public class DemoActivity extends AppCompatActivity {
         }
 
         fragmentStacksManager = new FragmentStacksManager<Fragment>(this,
-                R.id.fragment_host, 4) {
+                R.id.fragment_host, 3) {
 
             private void showBack(){
                 if (getSupportActionBar() != null) {
@@ -52,9 +54,6 @@ public class DemoActivity extends AppCompatActivity {
                         break;
                     case Stacks.OPT_3:
                         DemoActivity.this.setTitle("Photo");
-                        break;
-                    case Stacks.OPT_4:
-                        DemoActivity.this.setTitle("Test");
                         break;
                     }
 
@@ -88,10 +87,6 @@ public class DemoActivity extends AppCompatActivity {
                         fragment = Fragment.instantiate(getBaseContext(),
                                 DemoFragment.class.getName());
                         break;
-                    case Stacks.OPT_4:
-                        fragment = Fragment.instantiate(getBaseContext(),
-                                DemoFragment.class.getName());
-                        break;
 
                 }
                 if (fragment == null) {
@@ -121,10 +116,6 @@ public class DemoActivity extends AppCompatActivity {
 
                     case R.id.photo:
                         nextTab = Stacks.OPT_3;
-                        break;
-
-                    case R.id.test:
-                        nextTab = Stacks.OPT_4;
                         break;
                 }
                 if (nextTab != null) {
@@ -172,9 +163,6 @@ public class DemoActivity extends AppCompatActivity {
                     case Stacks.OPT_3:
                         indexOption = 2;
                         break;
-                    case Stacks.OPT_4:
-                        indexOption = 4;
-                        break;
                 }
                 // selección de pestaña
                 bottomNavigationView.getMenu().getItem(indexOption).setChecked(true);
@@ -185,7 +173,7 @@ public class DemoActivity extends AppCompatActivity {
     public void pushNewFragmentOnStack(int level){
         Bundle bundle = new Bundle();
         bundle.putInt("level", level);
-        Fragment fragment = Fragment.instantiate(getApplicationContext(),
+        Fragment fragment = Fragment.instantiate(getBaseContext(),
                 DemoFragment.class.getName(), bundle);
         fragmentStacksManager.pushFragment(fragment);
 

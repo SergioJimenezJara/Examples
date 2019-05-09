@@ -1,4 +1,4 @@
-#Wed May 08 14:03:58 CEST 2019
-base.0=C\:\\Users\\sjimenez\\Desktop\\FragmentStacksManager\\demo\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+#Thu May 09 08:08:22 CEST 2019
+base.0=C\:\\Users\\sjimenez\\AndroidStudioProjects\\FragmentStacksManager\\demo\\build\\intermediates\\transforms\\dexMerger\\debug\\9
 path.0=classes.dex
 renamed.0=classes.dex

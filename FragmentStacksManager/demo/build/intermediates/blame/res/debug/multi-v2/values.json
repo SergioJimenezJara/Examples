@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\sjimenez\\Desktop\\FragmentStacksManager\\demo\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\sjimenez\\AndroidStudioProjects\\FragmentStacksManager\\demo\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\sjimenez\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\8de184d1fdfe88dc2d8d3989d0917c14\\res\\values\\values.xml",
@@ -78,37 +78,22 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\sjimenez\\Desktop\\FragmentStacksManager\\demo\\src\\main\\res\\values\\colors.xml",
+                    "source": "C:\\Users\\sjimenez\\AndroidStudioProjects\\FragmentStacksManager\\demo\\src\\main\\res\\values\\styles.xml",
                     "from": {
-                        "startLines": "4,2,3",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "157,57,105",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "198,99,151"
+                        "startLines": "3,12",
+                        "startColumns": "4,4",
+                        "startOffsets": "57,419",
+                        "endLines": "8,20",
+                        "endColumns": "12,12",
+                        "endOffsets": "374,917"
                     },
                     "to": {
-                        "startLines": "67,68,69",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "4209,4255,4302",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "4250,4297,4348"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\sjimenez\\Desktop\\FragmentStacksManager\\demo\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "17",
-                        "endColumns": "62",
-                        "endOffsets": "75"
-                    },
-                    "to": {
-                        "startLines": "2123",
-                        "startColumns": "4",
-                        "startOffsets": "126282",
-                        "endColumns": "62",
-                        "endOffsets": "126340"
+                        "startLines": "2148,4113",
+                        "startColumns": "4,4",
+                        "startOffsets": "128980,258932",
+                        "endLines": "2153,4121",
+                        "endColumns": "12,12",
+                        "endOffsets": "129292,259422"
                     }
                 },
                 {
@@ -145,6 +130,23 @@
                         "startOffsets": "7153,120060,120113,120166,120219,241474,241650,241772,242034,242229",
                         "endColumns": "88,52,52,52,52,65,121,60,65,66",
                         "endOffsets": "7237,120108,120161,120214,120267,241535,241767,241828,242095,242291"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\sjimenez\\AndroidStudioProjects\\FragmentStacksManager\\demo\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endColumns": "62",
+                        "endOffsets": "75"
+                    },
+                    "to": {
+                        "startLines": "2123",
+                        "startColumns": "4",
+                        "startOffsets": "126282",
+                        "endColumns": "62",
+                        "endOffsets": "126340"
                     }
                 },
                 {
@@ -186,22 +188,20 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\sjimenez\\Desktop\\FragmentStacksManager\\demo\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\sjimenez\\AndroidStudioProjects\\FragmentStacksManager\\demo\\src\\main\\res\\values\\colors.xml",
                     "from": {
-                        "startLines": "3,12",
-                        "startColumns": "4,4",
-                        "startOffsets": "57,419",
-                        "endLines": "8,20",
-                        "endColumns": "12,12",
-                        "endOffsets": "374,917"
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "157,57,105",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "198,99,151"
                     },
                     "to": {
-                        "startLines": "2148,4113",
-                        "startColumns": "4,4",
-                        "startOffsets": "128980,258932",
-                        "endLines": "2153,4121",
-                        "endColumns": "12,12",
-                        "endOffsets": "129292,259422"
+                        "startLines": "67,68,69",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "4209,4255,4302",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "4250,4297,4348"
                     }
                 }
             ]

@@ -1,13 +1,13 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\sjimenez\Desktop\FragmentStacksManager\demo\src\main\AndroidManifest.xml:2:1-19:12
-INJECTED from C:\Users\sjimenez\Desktop\FragmentStacksManager\demo\src\main\AndroidManifest.xml:2:1-19:12
-INJECTED from C:\Users\sjimenez\Desktop\FragmentStacksManager\demo\src\main\AndroidManifest.xml:2:1-19:12
-INJECTED from C:\Users\sjimenez\Desktop\FragmentStacksManager\demo\src\main\AndroidManifest.xml:2:1-19:12
+ADDED from C:\Users\sjimenez\AndroidStudioProjects\FragmentStacksManager\demo\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\sjimenez\AndroidStudioProjects\FragmentStacksManager\demo\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\sjimenez\AndroidStudioProjects\FragmentStacksManager\demo\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\sjimenez\AndroidStudioProjects\FragmentStacksManager\demo\src\main\AndroidManifest.xml:2:1-19:12
 MERGED from [com.android.support:design:28.0.0] C:\Users\sjimenez\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\4363b98c522464df3b4dc9e4b1985e65\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\sjimenez\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\154454968a6c25c3a7969320c2ac4448\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-v4:28.0.0] C:\Users\sjimenez\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\76d182e6be84e79a926db0ee580e9ad6\AndroidManifest.xml:17:1-22:12
-MERGED from [:fragmentstacksmanager] C:\Users\sjimenez\.gradle\caches\transforms-1\files-1.1\fragmentstacksmanager-1.0.0-release.aar\00de832bfb78f7c44025ae5150906c6a\AndroidManifest.xml:2:1-11:12
+MERGED from [:fragmentstacksmanager] C:\Users\sjimenez\.gradle\caches\transforms-1\files-1.1\fragmentstacksmanager-1.0.0-release.aar\06ffa961d9993cde07047d0a03883f5e\AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\sjimenez\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\8037b06fda20c63341e95e00a4a9f275\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\sjimenez\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\0aa3ff1f6c76eb69892c558f5c16125a\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\sjimenez\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\eda8aedb3f62bbc4e342aa5aa303cde3\AndroidManifest.xml:17:1-22:12
@@ -37,25 +37,25 @@ MERGED from [com.android.support:interpolator:28.0.0] C:\Users\sjimenez\.gradle\
 MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\sjimenez\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\1acc34e0cc8b2a9100b7904a87cb0c3b\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\sjimenez\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\aafefdce8d85eadb8c9c05207885c249\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\sjimenez\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d60879777e7b577e768586563b0c216e\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\sjimenez\Desktop\FragmentStacksManager\demo\src\main\AndroidManifest.xml:2:1-19:12
-INJECTED from C:\Users\sjimenez\Desktop\FragmentStacksManager\demo\src\main\AndroidManifest.xml:2:1-19:12
-INJECTED from C:\Users\sjimenez\Desktop\FragmentStacksManager\demo\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\sjimenez\AndroidStudioProjects\FragmentStacksManager\demo\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\sjimenez\AndroidStudioProjects\FragmentStacksManager\demo\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\sjimenez\AndroidStudioProjects\FragmentStacksManager\demo\src\main\AndroidManifest.xml:2:1-19:12
 	package
-		ADDED from C:\Users\sjimenez\Desktop\FragmentStacksManager\demo\src\main\AndroidManifest.xml:3:5-52
-		INJECTED from C:\Users\sjimenez\Desktop\FragmentStacksManager\demo\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\sjimenez\Desktop\FragmentStacksManager\demo\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sjimenez\AndroidStudioProjects\FragmentStacksManager\demo\src\main\AndroidManifest.xml:3:5-52
+		INJECTED from C:\Users\sjimenez\AndroidStudioProjects\FragmentStacksManager\demo\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sjimenez\AndroidStudioProjects\FragmentStacksManager\demo\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\sjimenez\Desktop\FragmentStacksManager\demo\src\main\AndroidManifest.xml
-		ADDED from C:\Users\sjimenez\Desktop\FragmentStacksManager\demo\src\main\AndroidManifest.xml:2:1-19:12
-		INJECTED from C:\Users\sjimenez\Desktop\FragmentStacksManager\demo\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sjimenez\AndroidStudioProjects\FragmentStacksManager\demo\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sjimenez\AndroidStudioProjects\FragmentStacksManager\demo\src\main\AndroidManifest.xml:2:1-19:12
+		INJECTED from C:\Users\sjimenez\AndroidStudioProjects\FragmentStacksManager\demo\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\sjimenez\Desktop\FragmentStacksManager\demo\src\main\AndroidManifest.xml
-		ADDED from C:\Users\sjimenez\Desktop\FragmentStacksManager\demo\src\main\AndroidManifest.xml:2:1-19:12
-		INJECTED from C:\Users\sjimenez\Desktop\FragmentStacksManager\demo\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sjimenez\AndroidStudioProjects\FragmentStacksManager\demo\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sjimenez\AndroidStudioProjects\FragmentStacksManager\demo\src\main\AndroidManifest.xml:2:1-19:12
+		INJECTED from C:\Users\sjimenez\AndroidStudioProjects\FragmentStacksManager\demo\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\sjimenez\Desktop\FragmentStacksManager\demo\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\sjimenez\AndroidStudioProjects\FragmentStacksManager\demo\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\sjimenez\Desktop\FragmentStacksManager\demo\src\main\AndroidManifest.xml:5:5-17:19
+ADDED from C:\Users\sjimenez\AndroidStudioProjects\FragmentStacksManager\demo\src\main\AndroidManifest.xml:5:5-17:19
 MERGED from [com.android.support:design:28.0.0] C:\Users\sjimenez\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\4363b98c522464df3b4dc9e4b1985e65\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:28.0.0] C:\Users\sjimenez\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\4363b98c522464df3b4dc9e4b1985e65\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-compat:28.0.0] C:\Users\sjimenez\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\8de184d1fdfe88dc2d8d3989d0917c14\AndroidManifest.xml:22:5-94
@@ -65,41 +65,41 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\sjimenez\.
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\sjimenez\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\8de184d1fdfe88dc2d8d3989d0917c14\AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from C:\Users\sjimenez\Desktop\FragmentStacksManager\demo\src\main\AndroidManifest.xml:9:9-35
+		ADDED from C:\Users\sjimenez\AndroidStudioProjects\FragmentStacksManager\demo\src\main\AndroidManifest.xml:9:9-35
 	android:label
-		ADDED from C:\Users\sjimenez\Desktop\FragmentStacksManager\demo\src\main\AndroidManifest.xml:8:9-41
+		ADDED from C:\Users\sjimenez\AndroidStudioProjects\FragmentStacksManager\demo\src\main\AndroidManifest.xml:8:9-41
 	android:icon
-		ADDED from C:\Users\sjimenez\Desktop\FragmentStacksManager\demo\src\main\AndroidManifest.xml:7:9-43
+		ADDED from C:\Users\sjimenez\AndroidStudioProjects\FragmentStacksManager\demo\src\main\AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from C:\Users\sjimenez\Desktop\FragmentStacksManager\demo\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\sjimenez\AndroidStudioProjects\FragmentStacksManager\demo\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from C:\Users\sjimenez\Desktop\FragmentStacksManager\demo\src\main\AndroidManifest.xml:10:9-40
+		ADDED from C:\Users\sjimenez\AndroidStudioProjects\FragmentStacksManager\demo\src\main\AndroidManifest.xml:10:9-40
 activity#es.ingenia.fragmentstacksmanager.demo.DemoActivity
-ADDED from C:\Users\sjimenez\Desktop\FragmentStacksManager\demo\src\main\AndroidManifest.xml:11:9-16:20
+ADDED from C:\Users\sjimenez\AndroidStudioProjects\FragmentStacksManager\demo\src\main\AndroidManifest.xml:11:9-16:20
 	android:name
-		ADDED from C:\Users\sjimenez\Desktop\FragmentStacksManager\demo\src\main\AndroidManifest.xml:11:19-47
+		ADDED from C:\Users\sjimenez\AndroidStudioProjects\FragmentStacksManager\demo\src\main\AndroidManifest.xml:11:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\sjimenez\Desktop\FragmentStacksManager\demo\src\main\AndroidManifest.xml:12:13-15:29
+ADDED from C:\Users\sjimenez\AndroidStudioProjects\FragmentStacksManager\demo\src\main\AndroidManifest.xml:12:13-15:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\sjimenez\Desktop\FragmentStacksManager\demo\src\main\AndroidManifest.xml:13:17-69
+ADDED from C:\Users\sjimenez\AndroidStudioProjects\FragmentStacksManager\demo\src\main\AndroidManifest.xml:13:17-69
 	android:name
-		ADDED from C:\Users\sjimenez\Desktop\FragmentStacksManager\demo\src\main\AndroidManifest.xml:13:25-66
+		ADDED from C:\Users\sjimenez\AndroidStudioProjects\FragmentStacksManager\demo\src\main\AndroidManifest.xml:13:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\sjimenez\Desktop\FragmentStacksManager\demo\src\main\AndroidManifest.xml:14:17-77
+ADDED from C:\Users\sjimenez\AndroidStudioProjects\FragmentStacksManager\demo\src\main\AndroidManifest.xml:14:17-77
 	android:name
-		ADDED from C:\Users\sjimenez\Desktop\FragmentStacksManager\demo\src\main\AndroidManifest.xml:14:27-74
+		ADDED from C:\Users\sjimenez\AndroidStudioProjects\FragmentStacksManager\demo\src\main\AndroidManifest.xml:14:27-74
 uses-sdk
-INJECTED from C:\Users\sjimenez\Desktop\FragmentStacksManager\demo\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\sjimenez\Desktop\FragmentStacksManager\demo\src\main\AndroidManifest.xml
-INJECTED from C:\Users\sjimenez\Desktop\FragmentStacksManager\demo\src\main\AndroidManifest.xml
+INJECTED from C:\Users\sjimenez\AndroidStudioProjects\FragmentStacksManager\demo\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\sjimenez\AndroidStudioProjects\FragmentStacksManager\demo\src\main\AndroidManifest.xml
+INJECTED from C:\Users\sjimenez\AndroidStudioProjects\FragmentStacksManager\demo\src\main\AndroidManifest.xml
 MERGED from [com.android.support:design:28.0.0] C:\Users\sjimenez\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\4363b98c522464df3b4dc9e4b1985e65\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:design:28.0.0] C:\Users\sjimenez\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\4363b98c522464df3b4dc9e4b1985e65\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\sjimenez\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\154454968a6c25c3a7969320c2ac4448\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\sjimenez\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\154454968a6c25c3a7969320c2ac4448\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v4:28.0.0] C:\Users\sjimenez\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\76d182e6be84e79a926db0ee580e9ad6\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v4:28.0.0] C:\Users\sjimenez\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\76d182e6be84e79a926db0ee580e9ad6\AndroidManifest.xml:20:5-44
-MERGED from [:fragmentstacksmanager] C:\Users\sjimenez\.gradle\caches\transforms-1\files-1.1\fragmentstacksmanager-1.0.0-release.aar\00de832bfb78f7c44025ae5150906c6a\AndroidManifest.xml:7:5-9:41
-MERGED from [:fragmentstacksmanager] C:\Users\sjimenez\.gradle\caches\transforms-1\files-1.1\fragmentstacksmanager-1.0.0-release.aar\00de832bfb78f7c44025ae5150906c6a\AndroidManifest.xml:7:5-9:41
+MERGED from [:fragmentstacksmanager] C:\Users\sjimenez\.gradle\caches\transforms-1\files-1.1\fragmentstacksmanager-1.0.0-release.aar\06ffa961d9993cde07047d0a03883f5e\AndroidManifest.xml:7:5-9:41
+MERGED from [:fragmentstacksmanager] C:\Users\sjimenez\.gradle\caches\transforms-1\files-1.1\fragmentstacksmanager-1.0.0-release.aar\06ffa961d9993cde07047d0a03883f5e\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\sjimenez\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\8037b06fda20c63341e95e00a4a9f275\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\sjimenez\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\8037b06fda20c63341e95e00a4a9f275\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\sjimenez\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\0aa3ff1f6c76eb69892c558f5c16125a\AndroidManifest.xml:20:5-44
@@ -158,13 +158,13 @@ MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\sjimenez\.grad
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\sjimenez\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\aafefdce8d85eadb8c9c05207885c249\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\sjimenez\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d60879777e7b577e768586563b0c216e\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\sjimenez\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d60879777e7b577e768586563b0c216e\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\sjimenez\Desktop\FragmentStacksManager\demo\src\main\AndroidManifest.xml
-INJECTED from C:\Users\sjimenez\Desktop\FragmentStacksManager\demo\src\main\AndroidManifest.xml
+INJECTED from C:\Users\sjimenez\AndroidStudioProjects\FragmentStacksManager\demo\src\main\AndroidManifest.xml
+INJECTED from C:\Users\sjimenez\AndroidStudioProjects\FragmentStacksManager\demo\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\sjimenez\Desktop\FragmentStacksManager\demo\src\main\AndroidManifest.xml
-		ADDED from C:\Users\sjimenez\Desktop\FragmentStacksManager\demo\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\sjimenez\Desktop\FragmentStacksManager\demo\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sjimenez\AndroidStudioProjects\FragmentStacksManager\demo\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sjimenez\AndroidStudioProjects\FragmentStacksManager\demo\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sjimenez\AndroidStudioProjects\FragmentStacksManager\demo\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\sjimenez\Desktop\FragmentStacksManager\demo\src\main\AndroidManifest.xml
-		ADDED from C:\Users\sjimenez\Desktop\FragmentStacksManager\demo\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\sjimenez\Desktop\FragmentStacksManager\demo\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sjimenez\AndroidStudioProjects\FragmentStacksManager\demo\src\main\AndroidManifest.xml
+		ADDED from C:\Users\sjimenez\AndroidStudioProjects\FragmentStacksManager\demo\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sjimenez\AndroidStudioProjects\FragmentStacksManager\demo\src\main\AndroidManifest.xml

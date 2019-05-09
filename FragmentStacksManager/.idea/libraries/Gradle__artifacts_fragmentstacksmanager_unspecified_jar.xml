@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: artifacts:fragmentstacksmanager:unspecified@jar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/fragmentstacksmanager-1.0.0-release.aar/00de832bfb78f7c44025ae5150906c6a/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/fragmentstacksmanager-1.0.0-release.aar/00de832bfb78f7c44025ae5150906c6a/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/fragmentstacksmanager-1.0.0-release.aar/06ffa961d9993cde07047d0a03883f5e/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/fragmentstacksmanager-1.0.0-release.aar/06ffa961d9993cde07047d0a03883f5e/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
